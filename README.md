@@ -69,4 +69,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### phucnguyen
+### GitHub Api
+- https://docs.github.com/en/rest
+- https://api.github.com/users
+- https://api.github.com/search/users?q=brad
+- https://api.github.com/users/bradtraversy
+- https://api.github.com/users/bradtraversy/repos
+- https://github.com/bradtraversy/github-finder
+
+### npm commandline
+- npm create-react-app .
+- npm i axios
+- npm run build
+- npm start
+
+### React Extention - ES7 React/Redux/GraphQL/React-Native snippets
+- racf: reactArrowFunctionComponent
+- rce: reactClassExportComponent
