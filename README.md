@@ -83,6 +83,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - npm run build
 - npm start
 - npm i react-router-dom
+- npm i -g netlify-cli
 
 ### React Extention - ES7 React/Redux/GraphQL/React-Native snippets
 - racf: reactArrowFunctionComponent
