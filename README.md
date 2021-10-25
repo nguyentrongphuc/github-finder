@@ -88,3 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### React Extention - ES7 React/Redux/GraphQL/React-Native snippets
 - racf: reactArrowFunctionComponent
 - rce: reactClassExportComponent
+
